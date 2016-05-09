@@ -1,2 +1,2 @@
 # Graph-and-Network-Theory-Website
-Website for my math project
+Website for my math project Lets GO!
