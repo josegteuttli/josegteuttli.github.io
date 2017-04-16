@@ -19,3 +19,11 @@ passions
 competitions
 -ftc
 -best
+
+TODO
+scan and print and add cover letter
+design cover page
+competitions
+heroes
+passions in programming
+passions in markets
